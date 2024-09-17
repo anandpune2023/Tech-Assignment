@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  padding: 0;
+  overflow-x: hidden;
+}
+.offline-message{
+  height: 85vh;
+  display: flex;
+  margin: .5rem;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}

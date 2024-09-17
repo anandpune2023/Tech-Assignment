@@ -1,0 +1,36 @@
+.app-header {
+    background-color: #282c34;
+    color: white;
+    padding: .5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.auth-buttons {
+    display: flex;
+    align-items: center;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logout-button {
+    background-color: #f04e31;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+@media (max-width: 480px) {
+    .app-header{
+        padding: 1rem;
+    }
+    h1{
+        font-size: medium;
+    }
+}

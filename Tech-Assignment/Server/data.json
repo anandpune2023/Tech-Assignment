@@ -1,0 +1,222 @@
+[
+    {
+        "reviewId": 1,
+        "reviewer": {
+            "displayName": "Amit Kumar",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        "comment": "Great service, very satisfied!",
+        "starRating": 5,
+        "createTime": "2024-08-15T12:45:30Z",
+        "response": null
+    },
+    {
+        "reviewId": 2,
+        "reviewer": {
+            "displayName": "Priya Singh",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/women/2.jpg"
+        },
+        "comment": "Not satisfied with the service, the staff were rude.",
+        "starRating": 2,
+        "createTime": "2024-08-14T10:10:15Z",
+        "response": null
+    },
+    {
+        "reviewId": 3,
+        "reviewer": {
+            "displayName": "Rohit Sharma",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/men/3.jpg"
+        },
+        "comment": "Good quality but slightly overpriced.",
+        "starRating": 4,
+        "createTime": "2024-08-13T08:50:00Z",
+        "response": null
+    },
+    {
+        "reviewId": 4,
+        "reviewer": {
+            "displayName": "Sunita Yadav",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/women/4.jpg"
+        },
+        "comment": "Excellent ambiance and friendly staff.",
+        "starRating": 5,
+        "createTime": "2024-08-12T09:35:00Z",
+        "response": null
+    },
+    {
+        "reviewId": 5,
+        "reviewer": {
+            "displayName": "Manoj Gupta",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/men/5.jpg"
+        },
+        "comment": "Decent experience, can improve in customer service.",
+        "starRating": 3,
+        "createTime": "2024-08-11T14:10:00Z",
+        "response": null
+    },
+    {
+        "reviewId": 6,
+        "reviewer": {
+            "displayName": "Meena Patel",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/women/6.jpg"
+        },
+        "comment": "Loved the atmosphere and the food!",
+        "starRating": 5,
+        "createTime": "2024-08-10T12:25:00Z",
+        "response": null
+    },
+    {
+        "reviewId": 7,
+        "reviewer": {
+            "displayName": "Vikram Chauhan",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/men/7.jpg"
+        },
+        "comment": "Okay experience, nothing special.",
+        "starRating": 3,
+        "createTime": "2024-08-09T16:30:00Z",
+        "response": null
+    },
+    {
+        "reviewId": 8,
+        "reviewer": {
+            "displayName": "Kiran Desai",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/women/8.jpg"
+        },
+        "comment": "The location is amazing but service can be improved.",
+        "starRating": 4,
+        "createTime": "2024-08-08T11:05:00Z",
+        "response": null
+    },
+    {
+        "reviewId": 9,
+        "reviewer": {
+            "displayName": "Sanjay Verma",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/men/9.jpg"
+        },
+        "comment": "The products are overpriced for their quality.",
+        "starRating": 2,
+        "createTime": "2024-08-07T13:55:00Z",
+        "response": null
+    },
+    {
+        "reviewId": 10,
+        "reviewer": {
+            "displayName": "Anjali Nair",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/women/10.jpg"
+        },
+        "comment": "Amazing experience! The staff was very courteous.",
+        "starRating": 5,
+        "createTime": "2024-08-06T14:20:00Z",
+        "response": null
+    },
+    {
+        "reviewId": 11,
+        "reviewer": {
+            "displayName": "Rajesh Ahuja",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/men/11.jpg"
+        },
+        "comment": "Would not recommend this place. Service was slow.",
+        "starRating": 1,
+        "createTime": "2024-08-05T12:00:00Z",
+        "response": null
+    },
+    {
+        "reviewId": 12,
+        "reviewer": {
+            "displayName": "Deepika Reddy",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/women/12.jpg"
+        },
+        "comment": "Had a great time with family. Lovely place!",
+        "starRating": 5,
+        "createTime": "2024-08-04T17:45:00Z",
+        "response": null
+    },
+    {
+        "reviewId": 13,
+        "reviewer": {
+            "displayName": "Neha Sharma",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/women/13.jpg"
+        },
+        "comment": "The cleanliness could be better.",
+        "starRating": 3,
+        "createTime": "2024-08-03T11:30:00Z",
+        "response": null
+    },
+    {
+        "reviewId": 14,
+        "reviewer": {
+            "displayName": "Vikas Singh",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/men/14.jpg"
+        },
+        "comment": "Not worth the money. Disappointed with the service.",
+        "starRating": 1,
+        "createTime": "2024-08-02T14:40:00Z",
+        "response": null
+    },
+    {
+        "reviewId": 15,
+        "reviewer": {
+            "displayName": "Preeti Pandey",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/women/15.jpg"
+        },
+        "comment": "Loved the food and the quick service!",
+        "starRating": 5,
+        "createTime": "2024-08-01T19:10:00Z",
+        "response": null
+    },
+    {
+        "reviewId": 16,
+        "reviewer": {
+            "displayName": "Aakash Patel",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/men/16.jpg"
+        },
+        "comment": "Very slow service. Not coming back.",
+        "starRating": 1,
+        "createTime": "2024-07-31T16:25:00Z",
+        "response": null
+    },
+    {
+        "reviewId": 17,
+        "reviewer": {
+            "displayName": "Shreya Iyer",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/women/17.jpg"
+        },
+        "comment": "Amazing ambiance and good food.",
+        "starRating": 5,
+        "createTime": "2024-07-30T18:00:00Z",
+        "response": null
+    },
+    {
+        "reviewId": 18,
+        "reviewer": {
+            "displayName": "Ajay Verma",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/men/18.jpg"
+        },
+        "comment": "The location is convenient but the food quality needs improvement.",
+        "starRating": 3,
+        "createTime": "2024-07-29T14:50:00Z",
+        "response": null
+    },
+    {
+        "reviewId": 19,
+        "reviewer": {
+            "displayName": "Nisha Kapoor",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/women/19.jpg"
+        },
+        "comment": "Excellent place for family outings. Great service and ambiance.",
+        "starRating": 4,
+        "createTime": "2024-07-28T15:30:00Z",
+        "response": null
+    },
+    {
+        "reviewId": 20,
+        "reviewer": {
+            "displayName": "Siddharth Roy",
+            "profilePhotoUrl": "https://randomuser.me/api/portraits/men/20.jpg"
+        },
+        "comment": "The service was good, but the food was average. Expected better.",
+        "starRating": 3,
+        "createTime": "2024-07-27T13:20:00Z",
+        "response": null
+    }
+]
